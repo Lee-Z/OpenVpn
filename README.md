@@ -343,11 +343,11 @@ crl-verify /etc/openvpn/keys/crl.pem
   R 表示是注销成功的。
   注： 注销用户的时候如果报错的话，先把在index.txt 文件中将需要注销的用户#掉，这样可以重新再创建同样的用户名。注销用户名的时候没有err23 这个都是没有注销成功的。
   ![enter description here][2]
-
+  
 
   ![enter description here][3]
 
 
-  [1]: ./images/1494559088477.jpg "1494559088477"
+  [1]: https://github.com/Lee-Z/OpenVpn/blob/master/@K%7D(@ANV)(HO%7B%7BIT%5DY%5B47FY.png?raw=true
   [2]: ./images/1494559125551.jpg "1494559125551"
   [3]: ./images/1494559143291.jpg "1494559143291"
