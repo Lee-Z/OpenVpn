@@ -349,5 +349,5 @@ crl-verify /etc/openvpn/keys/crl.pem
 
 
   [1]: https://github.com/Lee-Z/OpenVpn/blob/master/@K%7D(@ANV)(HO%7B%7BIT%5DY%5B47FY.png?raw=true
-  [2]: ./images/1494559125551.jpg "1494559125551"
+  [2]: https://github.com/Lee-Z/OpenVpn/blob/master/2.png?raw=true
   [3]: ./images/1494559143291.jpg "1494559143291"
